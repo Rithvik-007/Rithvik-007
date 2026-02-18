@@ -1,4 +1,5 @@
 # 💫 About Me:
+## Rithvik Pranao Nagaraj
 👨‍💻 Who I Am<br><br>I’m a graduate CS student focused on building real-world AI systems and scalable backend architectures.<br><br>My work sits at the intersection of:<br><br>🧠 Machine Learning & Deep Learning<br><br>⚙️ Backend Engineering<br><br>🔐 Secure & compliant system design<br><br>🤖 LLM-powered applications (RAG, embeddings, model APIs)<br><br>🛠 What I Built (Interesting ones)<br><br>Fine-tuning foundation models (MedSAM) for medical image segmentation<br><br>FastAPI-based backend services with authentication and database integration<br><br>Secure artifact registry systems with access control<br><br>📚 What I’m Learning<br><br>Scalable backend system design<br><br>Production ML deployment strategies<br><br>Advanced model optimization<br><br>Clean architecture principles<br><br>Distributed systems fundamentals
 
 
