@@ -1,7 +1,40 @@
 # 💫 About Me:
-## Rithvik Pranao Nagaraj
-👨‍💻 Who I Am<br><br>I’m a graduate CS student focused on building real-world AI systems and scalable backend architectures.<br><br>My work sits at the intersection of:<br><br>🧠 Machine Learning & Deep Learning<br><br>⚙️ Backend Engineering<br><br>🔐 Secure & compliant system design<br><br>🤖 LLM-powered applications (RAG, embeddings, model APIs)<br><br>🛠 What I Built (Interesting ones)<br><br>Fine-tuning foundation models (MedSAM) for medical image segmentation<br><br>FastAPI-based backend services with authentication and database integration<br><br>Secure artifact registry systems with access control<br><br>📚 What I’m Learning<br><br>Scalable backend system design<br><br>Production ML deployment strategies<br><br>Advanced model optimization<br><br>Clean architecture principles<br><br>Distributed systems fundamentals
+## 👨‍💻 Who I Am
 
+I’m a graduate Computer Science student focused on building **real-world AI systems** and **scalable backend architectures**.
+
+I don’t just train models.  
+I design APIs.  
+I structure databases.  
+I containerize services.  
+I think about security, compliance, and production readiness.
+
+My work sits at the intersection of:
+
+- 🧠 **Machine Learning & Deep Learning**
+- ⚙️ **Backend Engineering**
+- 🔐 **Secure & Compliant System Design**
+- 🤖 **LLM-Powered Applications** (RAG, embeddings, model APIs)
+
+---
+
+## 🛠 What I’m Building
+
+- Fine-tuning foundation models (MedSAM) for medical image segmentation  
+- Retrieval-Augmented Generation (RAG) systems using embeddings + FAISS  
+- FastAPI-based backend services with authentication and database integration  
+- Dockerized AI applications ready for deployment  
+- Secure artifact registry systems with access control  
+
+---
+
+## 📚 What I’m Learning
+
+- Scalable backend system design  
+- Production ML deployment strategies  
+- Advanced model optimization  
+- Clean architecture principles  
+- Distributed systems fundamentals  
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/rithvik3172) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rithvik_29) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Rithvik Pranao Nagaraj) 
